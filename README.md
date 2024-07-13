@@ -1,17 +1,12 @@
-## Foundry
+## EasyTicket
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**ETH Global Brussels**
 
-Foundry consists of:
+This project is a smart contract for managing events and tickets. It allows organizers to create events, generate and sell tickets, and manage transfers securely. Utilizing blockchain ensures transparency and prevents fraud, making ticketing decentralized and efficient for various events.
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+## Contract Sepolia
 
-## Documentation
-
-https://book.getfoundry.sh/
+0x468eE76563b71a4758802c0B24D614d44f9da289
 
 ## Usage
 
